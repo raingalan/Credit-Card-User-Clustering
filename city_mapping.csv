@@ -1,0 +1,60 @@
+city,province,Region,Island
+Palayan,Nueva Ecija,3,Luzon
+Masbate,Masbate,5,Luzon
+San Fernando,Pampanga,3,Luzon
+Olongapo,Zambales,3,Luzon
+Balanga,Bataan,3,Luzon
+Angeles,Pampanga,3,Luzon
+Pagadian,Zamboanga del Sur,9,Mindanao
+Calapan,Oriental Mindoro,4-A,Luzon
+Sorsogon,Sorsogon,5,Luzon
+Marikina,Metro Manila,NCR,NCR
+Binan,Laguna,4-B,Luzon
+Paranaque,Metro Manila,NCR,NCR
+Butuan,Agusan del Norte,CARAGA,Mindanao
+Vigan,Ilocos Sur,1,Luzon
+San Jose del Monte,Bulacan,3,Luzon
+Dumaguete,Negros Oriental,7,Visayas
+Calamba,Laguna,4-B,Luzon
+Makati,Metro Manila,NCR,NCR
+Cabanatuan,Nueva Ecija,3,Luzon
+Malabon,Nueva Ecija,3,Luzon
+Tacloban,Leyte,8,Visayas
+Digos,Davao del Sur,11,Mindanao
+Laoag,Ilocos Norte,1,Luzon
+Malaybalay,Bukidnon,10,Mindanao
+Dasmarinas,Cavite,4-B,Luzon
+Mati,Davao Oriental,11,Mindanao
+Meycauayan,Bulacan,3,Luzon
+Tuguegarao,Cagayan,2,Luzon
+Naga,Camarines Sur,5,Luzon
+Cadiz,Negros Occidental,6,Visayas
+Valenzuela,Metro Manila,NCR,NCR
+Puerto Princesa,Palawan,4-A,Luzon
+Santiago,Isabela,2,Luzon
+Santa Rosa,Laguna,4-B,Luzon
+Isabela,Isabela,2,Luzon
+Caloocan,Metro Manila,NCR,NCR
+General Santos,South Cotabato,12,Mindanao
+San Pedro,Laguna,4-B,Luzon
+Lipa,Batangas,4-B,Luzon
+Antipolo,Rizal,4-B,Luzon
+Maasin,Southern Leyte,8,Visayas
+Cebu,Cebu,7,Visayas
+Dagupan,Pangasinan,1,Luzon
+Tagbilaran,Bohol,7,Visayas
+Batangas,Batangas,4-B,Luzon
+Muntinlupa,Metro Manila,NCR,NCR
+Manila,Metro Manila,NCR,NCR
+Navotas,Metro Manila,NCR,NCR
+Dipolog,Zamboanga del Norte,9,Mindanao
+Iligan,Lanao del Norte,10,Mindanao
+Mandaluyong,Metro Manila,NCR,NCR
+Lucena,Quezon,4-B,Luzon
+Imus,Cavite,4-B,Luzon
+Iloilo,Iloilo,6,Visayas
+Legazpi,Albay,5,Luzon
+San Juan,Metro Manila,NCR,NCR
+Talisay,Cebu,7,Visayas
+Surigao,Surigao del Norte,CARAGA,Mindanao
+Bacolod,Negros Occidental,6,Visayas
